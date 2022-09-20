@@ -1,0 +1,15 @@
+D:\DEV\C#\Udemy\Scripts\EntradaDeDados\EntradaDeDados\bin\Debug\net6.0\EntradaDeDados.exe
+D:\DEV\C#\Udemy\Scripts\EntradaDeDados\EntradaDeDados\bin\Debug\net6.0\EntradaDeDados.deps.json
+D:\DEV\C#\Udemy\Scripts\EntradaDeDados\EntradaDeDados\bin\Debug\net6.0\EntradaDeDados.runtimeconfig.json
+D:\DEV\C#\Udemy\Scripts\EntradaDeDados\EntradaDeDados\bin\Debug\net6.0\EntradaDeDados.dll
+D:\DEV\C#\Udemy\Scripts\EntradaDeDados\EntradaDeDados\bin\Debug\net6.0\EntradaDeDados.pdb
+D:\DEV\C#\Udemy\Scripts\EntradaDeDados\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.csproj.AssemblyReference.cache
+D:\DEV\C#\Udemy\Scripts\EntradaDeDados\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\C#\Udemy\Scripts\EntradaDeDados\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.AssemblyInfoInputs.cache
+D:\DEV\C#\Udemy\Scripts\EntradaDeDados\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.AssemblyInfo.cs
+D:\DEV\C#\Udemy\Scripts\EntradaDeDados\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.csproj.CoreCompileInputs.cache
+D:\DEV\C#\Udemy\Scripts\EntradaDeDados\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.dll
+D:\DEV\C#\Udemy\Scripts\EntradaDeDados\EntradaDeDados\obj\Debug\net6.0\refint\EntradaDeDados.dll
+D:\DEV\C#\Udemy\Scripts\EntradaDeDados\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.pdb
+D:\DEV\C#\Udemy\Scripts\EntradaDeDados\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.genruntimeconfig.cache
+D:\DEV\C#\Udemy\Scripts\EntradaDeDados\EntradaDeDados\obj\Debug\net6.0\ref\EntradaDeDados.dll

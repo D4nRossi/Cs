@@ -1,0 +1,15 @@
+D:\DEV\C#\Udemy\Scripts\ConvercaoImplicitaECasting\ConvercaoImplicitaECasting\bin\Debug\net6.0\ConvercaoImplicitaECasting.exe
+D:\DEV\C#\Udemy\Scripts\ConvercaoImplicitaECasting\ConvercaoImplicitaECasting\bin\Debug\net6.0\ConvercaoImplicitaECasting.deps.json
+D:\DEV\C#\Udemy\Scripts\ConvercaoImplicitaECasting\ConvercaoImplicitaECasting\bin\Debug\net6.0\ConvercaoImplicitaECasting.runtimeconfig.json
+D:\DEV\C#\Udemy\Scripts\ConvercaoImplicitaECasting\ConvercaoImplicitaECasting\bin\Debug\net6.0\ConvercaoImplicitaECasting.dll
+D:\DEV\C#\Udemy\Scripts\ConvercaoImplicitaECasting\ConvercaoImplicitaECasting\bin\Debug\net6.0\ConvercaoImplicitaECasting.pdb
+D:\DEV\C#\Udemy\Scripts\ConvercaoImplicitaECasting\ConvercaoImplicitaECasting\obj\Debug\net6.0\ConvercaoImplicitaECasting.csproj.AssemblyReference.cache
+D:\DEV\C#\Udemy\Scripts\ConvercaoImplicitaECasting\ConvercaoImplicitaECasting\obj\Debug\net6.0\ConvercaoImplicitaECasting.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\C#\Udemy\Scripts\ConvercaoImplicitaECasting\ConvercaoImplicitaECasting\obj\Debug\net6.0\ConvercaoImplicitaECasting.AssemblyInfoInputs.cache
+D:\DEV\C#\Udemy\Scripts\ConvercaoImplicitaECasting\ConvercaoImplicitaECasting\obj\Debug\net6.0\ConvercaoImplicitaECasting.AssemblyInfo.cs
+D:\DEV\C#\Udemy\Scripts\ConvercaoImplicitaECasting\ConvercaoImplicitaECasting\obj\Debug\net6.0\ConvercaoImplicitaECasting.csproj.CoreCompileInputs.cache
+D:\DEV\C#\Udemy\Scripts\ConvercaoImplicitaECasting\ConvercaoImplicitaECasting\obj\Debug\net6.0\ConvercaoImplicitaECasting.dll
+D:\DEV\C#\Udemy\Scripts\ConvercaoImplicitaECasting\ConvercaoImplicitaECasting\obj\Debug\net6.0\refint\ConvercaoImplicitaECasting.dll
+D:\DEV\C#\Udemy\Scripts\ConvercaoImplicitaECasting\ConvercaoImplicitaECasting\obj\Debug\net6.0\ConvercaoImplicitaECasting.pdb
+D:\DEV\C#\Udemy\Scripts\ConvercaoImplicitaECasting\ConvercaoImplicitaECasting\obj\Debug\net6.0\ConvercaoImplicitaECasting.genruntimeconfig.cache
+D:\DEV\C#\Udemy\Scripts\ConvercaoImplicitaECasting\ConvercaoImplicitaECasting\obj\Debug\net6.0\ref\ConvercaoImplicitaECasting.dll

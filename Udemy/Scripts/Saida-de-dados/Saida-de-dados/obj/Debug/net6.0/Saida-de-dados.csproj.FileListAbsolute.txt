@@ -1,0 +1,15 @@
+D:\DEV\C#\ws-vs2022\Saida-de-dados\Saida-de-dados\obj\Debug\net6.0\Saida-de-dados.csproj.AssemblyReference.cache
+D:\DEV\C#\ws-vs2022\Saida-de-dados\Saida-de-dados\obj\Debug\net6.0\Saida-de-dados.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\C#\ws-vs2022\Saida-de-dados\Saida-de-dados\obj\Debug\net6.0\Saida-de-dados.AssemblyInfoInputs.cache
+D:\DEV\C#\ws-vs2022\Saida-de-dados\Saida-de-dados\obj\Debug\net6.0\Saida-de-dados.AssemblyInfo.cs
+D:\DEV\C#\ws-vs2022\Saida-de-dados\Saida-de-dados\obj\Debug\net6.0\Saida-de-dados.csproj.CoreCompileInputs.cache
+D:\DEV\C#\ws-vs2022\Saida-de-dados\Saida-de-dados\bin\Debug\net6.0\Saida-de-dados.exe
+D:\DEV\C#\ws-vs2022\Saida-de-dados\Saida-de-dados\bin\Debug\net6.0\Saida-de-dados.deps.json
+D:\DEV\C#\ws-vs2022\Saida-de-dados\Saida-de-dados\bin\Debug\net6.0\Saida-de-dados.runtimeconfig.json
+D:\DEV\C#\ws-vs2022\Saida-de-dados\Saida-de-dados\bin\Debug\net6.0\Saida-de-dados.dll
+D:\DEV\C#\ws-vs2022\Saida-de-dados\Saida-de-dados\bin\Debug\net6.0\ref\Saida-de-dados.dll
+D:\DEV\C#\ws-vs2022\Saida-de-dados\Saida-de-dados\bin\Debug\net6.0\Saida-de-dados.pdb
+D:\DEV\C#\ws-vs2022\Saida-de-dados\Saida-de-dados\obj\Debug\net6.0\Saida-de-dados.dll
+D:\DEV\C#\ws-vs2022\Saida-de-dados\Saida-de-dados\obj\Debug\net6.0\ref\Saida-de-dados.dll
+D:\DEV\C#\ws-vs2022\Saida-de-dados\Saida-de-dados\obj\Debug\net6.0\Saida-de-dados.pdb
+D:\DEV\C#\ws-vs2022\Saida-de-dados\Saida-de-dados\obj\Debug\net6.0\Saida-de-dados.genruntimeconfig.cache

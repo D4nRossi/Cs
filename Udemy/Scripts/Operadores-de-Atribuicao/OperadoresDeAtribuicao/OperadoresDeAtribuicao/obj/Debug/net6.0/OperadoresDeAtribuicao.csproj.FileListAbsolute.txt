@@ -1,0 +1,15 @@
+D:\DEV\C#\ws-vs2022\Operadores-de-Atribuicao\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\net6.0\OperadoresDeAtribuicao.exe
+D:\DEV\C#\ws-vs2022\Operadores-de-Atribuicao\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\net6.0\OperadoresDeAtribuicao.deps.json
+D:\DEV\C#\ws-vs2022\Operadores-de-Atribuicao\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\net6.0\OperadoresDeAtribuicao.runtimeconfig.json
+D:\DEV\C#\ws-vs2022\Operadores-de-Atribuicao\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\net6.0\OperadoresDeAtribuicao.dll
+D:\DEV\C#\ws-vs2022\Operadores-de-Atribuicao\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\net6.0\ref\OperadoresDeAtribuicao.dll
+D:\DEV\C#\ws-vs2022\Operadores-de-Atribuicao\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\net6.0\OperadoresDeAtribuicao.pdb
+D:\DEV\C#\ws-vs2022\Operadores-de-Atribuicao\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net6.0\OperadoresDeAtribuicao.csproj.AssemblyReference.cache
+D:\DEV\C#\ws-vs2022\Operadores-de-Atribuicao\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net6.0\OperadoresDeAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\C#\ws-vs2022\Operadores-de-Atribuicao\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net6.0\OperadoresDeAtribuicao.AssemblyInfoInputs.cache
+D:\DEV\C#\ws-vs2022\Operadores-de-Atribuicao\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net6.0\OperadoresDeAtribuicao.AssemblyInfo.cs
+D:\DEV\C#\ws-vs2022\Operadores-de-Atribuicao\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net6.0\OperadoresDeAtribuicao.csproj.CoreCompileInputs.cache
+D:\DEV\C#\ws-vs2022\Operadores-de-Atribuicao\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net6.0\OperadoresDeAtribuicao.dll
+D:\DEV\C#\ws-vs2022\Operadores-de-Atribuicao\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net6.0\ref\OperadoresDeAtribuicao.dll
+D:\DEV\C#\ws-vs2022\Operadores-de-Atribuicao\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net6.0\OperadoresDeAtribuicao.pdb
+D:\DEV\C#\ws-vs2022\Operadores-de-Atribuicao\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net6.0\OperadoresDeAtribuicao.genruntimeconfig.cache
