@@ -1,0 +1,15 @@
+D:\DEV\C#\Udemy\Scripts\For\For\bin\Debug\net6.0\For.exe
+D:\DEV\C#\Udemy\Scripts\For\For\bin\Debug\net6.0\For.deps.json
+D:\DEV\C#\Udemy\Scripts\For\For\bin\Debug\net6.0\For.runtimeconfig.json
+D:\DEV\C#\Udemy\Scripts\For\For\bin\Debug\net6.0\For.dll
+D:\DEV\C#\Udemy\Scripts\For\For\bin\Debug\net6.0\For.pdb
+D:\DEV\C#\Udemy\Scripts\For\For\obj\Debug\net6.0\For.csproj.AssemblyReference.cache
+D:\DEV\C#\Udemy\Scripts\For\For\obj\Debug\net6.0\For.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\C#\Udemy\Scripts\For\For\obj\Debug\net6.0\For.AssemblyInfoInputs.cache
+D:\DEV\C#\Udemy\Scripts\For\For\obj\Debug\net6.0\For.AssemblyInfo.cs
+D:\DEV\C#\Udemy\Scripts\For\For\obj\Debug\net6.0\For.csproj.CoreCompileInputs.cache
+D:\DEV\C#\Udemy\Scripts\For\For\obj\Debug\net6.0\For.dll
+D:\DEV\C#\Udemy\Scripts\For\For\obj\Debug\net6.0\refint\For.dll
+D:\DEV\C#\Udemy\Scripts\For\For\obj\Debug\net6.0\For.pdb
+D:\DEV\C#\Udemy\Scripts\For\For\obj\Debug\net6.0\For.genruntimeconfig.cache
+D:\DEV\C#\Udemy\Scripts\For\For\obj\Debug\net6.0\ref\For.dll

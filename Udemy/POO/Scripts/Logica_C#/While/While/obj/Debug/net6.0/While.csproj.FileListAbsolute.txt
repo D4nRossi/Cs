@@ -1,0 +1,15 @@
+D:\DEV\C#\Udemy\Scripts\While\While\obj\Debug\net6.0\While.csproj.AssemblyReference.cache
+D:\DEV\C#\Udemy\Scripts\While\While\obj\Debug\net6.0\While.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\C#\Udemy\Scripts\While\While\obj\Debug\net6.0\While.AssemblyInfoInputs.cache
+D:\DEV\C#\Udemy\Scripts\While\While\obj\Debug\net6.0\While.AssemblyInfo.cs
+D:\DEV\C#\Udemy\Scripts\While\While\obj\Debug\net6.0\While.csproj.CoreCompileInputs.cache
+D:\DEV\C#\Udemy\Scripts\While\While\bin\Debug\net6.0\While.exe
+D:\DEV\C#\Udemy\Scripts\While\While\bin\Debug\net6.0\While.deps.json
+D:\DEV\C#\Udemy\Scripts\While\While\bin\Debug\net6.0\While.runtimeconfig.json
+D:\DEV\C#\Udemy\Scripts\While\While\bin\Debug\net6.0\While.dll
+D:\DEV\C#\Udemy\Scripts\While\While\bin\Debug\net6.0\While.pdb
+D:\DEV\C#\Udemy\Scripts\While\While\obj\Debug\net6.0\While.dll
+D:\DEV\C#\Udemy\Scripts\While\While\obj\Debug\net6.0\refint\While.dll
+D:\DEV\C#\Udemy\Scripts\While\While\obj\Debug\net6.0\While.pdb
+D:\DEV\C#\Udemy\Scripts\While\While\obj\Debug\net6.0\While.genruntimeconfig.cache
+D:\DEV\C#\Udemy\Scripts\While\While\obj\Debug\net6.0\ref\While.dll

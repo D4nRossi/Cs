@@ -1,0 +1,15 @@
+D:\DEV\C#\Udemy\Scripts\Debbuging\Debbuging\bin\Debug\net6.0\Debbuging.exe
+D:\DEV\C#\Udemy\Scripts\Debbuging\Debbuging\bin\Debug\net6.0\Debbuging.deps.json
+D:\DEV\C#\Udemy\Scripts\Debbuging\Debbuging\bin\Debug\net6.0\Debbuging.runtimeconfig.json
+D:\DEV\C#\Udemy\Scripts\Debbuging\Debbuging\bin\Debug\net6.0\Debbuging.dll
+D:\DEV\C#\Udemy\Scripts\Debbuging\Debbuging\bin\Debug\net6.0\Debbuging.pdb
+D:\DEV\C#\Udemy\Scripts\Debbuging\Debbuging\obj\Debug\net6.0\Debbuging.csproj.AssemblyReference.cache
+D:\DEV\C#\Udemy\Scripts\Debbuging\Debbuging\obj\Debug\net6.0\Debbuging.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\C#\Udemy\Scripts\Debbuging\Debbuging\obj\Debug\net6.0\Debbuging.AssemblyInfoInputs.cache
+D:\DEV\C#\Udemy\Scripts\Debbuging\Debbuging\obj\Debug\net6.0\Debbuging.AssemblyInfo.cs
+D:\DEV\C#\Udemy\Scripts\Debbuging\Debbuging\obj\Debug\net6.0\Debbuging.csproj.CoreCompileInputs.cache
+D:\DEV\C#\Udemy\Scripts\Debbuging\Debbuging\obj\Debug\net6.0\Debbuging.dll
+D:\DEV\C#\Udemy\Scripts\Debbuging\Debbuging\obj\Debug\net6.0\refint\Debbuging.dll
+D:\DEV\C#\Udemy\Scripts\Debbuging\Debbuging\obj\Debug\net6.0\Debbuging.pdb
+D:\DEV\C#\Udemy\Scripts\Debbuging\Debbuging\obj\Debug\net6.0\Debbuging.genruntimeconfig.cache
+D:\DEV\C#\Udemy\Scripts\Debbuging\Debbuging\obj\Debug\net6.0\ref\Debbuging.dll
