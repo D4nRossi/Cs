@@ -1,0 +1,15 @@
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\CriandoClasseRepresentarMelhor\CriandoClasseRepresentarMelhor\bin\Debug\net6.0\CriandoClasseRepresentarMelhor.exe
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\CriandoClasseRepresentarMelhor\CriandoClasseRepresentarMelhor\bin\Debug\net6.0\CriandoClasseRepresentarMelhor.deps.json
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\CriandoClasseRepresentarMelhor\CriandoClasseRepresentarMelhor\bin\Debug\net6.0\CriandoClasseRepresentarMelhor.runtimeconfig.json
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\CriandoClasseRepresentarMelhor\CriandoClasseRepresentarMelhor\bin\Debug\net6.0\CriandoClasseRepresentarMelhor.dll
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\CriandoClasseRepresentarMelhor\CriandoClasseRepresentarMelhor\bin\Debug\net6.0\CriandoClasseRepresentarMelhor.pdb
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\CriandoClasseRepresentarMelhor\CriandoClasseRepresentarMelhor\obj\Debug\net6.0\CriandoClasseRepresentarMelhor.csproj.AssemblyReference.cache
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\CriandoClasseRepresentarMelhor\CriandoClasseRepresentarMelhor\obj\Debug\net6.0\CriandoClasseRepresentarMelhor.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\CriandoClasseRepresentarMelhor\CriandoClasseRepresentarMelhor\obj\Debug\net6.0\CriandoClasseRepresentarMelhor.AssemblyInfoInputs.cache
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\CriandoClasseRepresentarMelhor\CriandoClasseRepresentarMelhor\obj\Debug\net6.0\CriandoClasseRepresentarMelhor.AssemblyInfo.cs
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\CriandoClasseRepresentarMelhor\CriandoClasseRepresentarMelhor\obj\Debug\net6.0\CriandoClasseRepresentarMelhor.csproj.CoreCompileInputs.cache
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\CriandoClasseRepresentarMelhor\CriandoClasseRepresentarMelhor\obj\Debug\net6.0\CriandoClasseRepresentarMelhor.dll
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\CriandoClasseRepresentarMelhor\CriandoClasseRepresentarMelhor\obj\Debug\net6.0\refint\CriandoClasseRepresentarMelhor.dll
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\CriandoClasseRepresentarMelhor\CriandoClasseRepresentarMelhor\obj\Debug\net6.0\CriandoClasseRepresentarMelhor.pdb
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\CriandoClasseRepresentarMelhor\CriandoClasseRepresentarMelhor\obj\Debug\net6.0\CriandoClasseRepresentarMelhor.genruntimeconfig.cache
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\CriandoClasseRepresentarMelhor\CriandoClasseRepresentarMelhor\obj\Debug\net6.0\ref\CriandoClasseRepresentarMelhor.dll

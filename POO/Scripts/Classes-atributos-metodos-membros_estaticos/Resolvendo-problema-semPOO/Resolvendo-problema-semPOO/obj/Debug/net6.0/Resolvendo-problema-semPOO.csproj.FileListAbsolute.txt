@@ -1,0 +1,15 @@
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\Resolvendo-problema-semPOO\Resolvendo-problema-semPOO\bin\Debug\net6.0\Resolvendo-problema-semPOO.exe
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\Resolvendo-problema-semPOO\Resolvendo-problema-semPOO\bin\Debug\net6.0\Resolvendo-problema-semPOO.deps.json
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\Resolvendo-problema-semPOO\Resolvendo-problema-semPOO\bin\Debug\net6.0\Resolvendo-problema-semPOO.runtimeconfig.json
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\Resolvendo-problema-semPOO\Resolvendo-problema-semPOO\bin\Debug\net6.0\Resolvendo-problema-semPOO.dll
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\Resolvendo-problema-semPOO\Resolvendo-problema-semPOO\bin\Debug\net6.0\Resolvendo-problema-semPOO.pdb
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\Resolvendo-problema-semPOO\Resolvendo-problema-semPOO\obj\Debug\net6.0\Resolvendo-problema-semPOO.csproj.AssemblyReference.cache
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\Resolvendo-problema-semPOO\Resolvendo-problema-semPOO\obj\Debug\net6.0\Resolvendo-problema-semPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\Resolvendo-problema-semPOO\Resolvendo-problema-semPOO\obj\Debug\net6.0\Resolvendo-problema-semPOO.AssemblyInfoInputs.cache
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\Resolvendo-problema-semPOO\Resolvendo-problema-semPOO\obj\Debug\net6.0\Resolvendo-problema-semPOO.AssemblyInfo.cs
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\Resolvendo-problema-semPOO\Resolvendo-problema-semPOO\obj\Debug\net6.0\Resolvendo-problema-semPOO.csproj.CoreCompileInputs.cache
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\Resolvendo-problema-semPOO\Resolvendo-problema-semPOO\obj\Debug\net6.0\Resolvendo-problema-semPOO.dll
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\Resolvendo-problema-semPOO\Resolvendo-problema-semPOO\obj\Debug\net6.0\refint\Resolvendo-problema-semPOO.dll
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\Resolvendo-problema-semPOO\Resolvendo-problema-semPOO\obj\Debug\net6.0\Resolvendo-problema-semPOO.pdb
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\Resolvendo-problema-semPOO\Resolvendo-problema-semPOO\obj\Debug\net6.0\Resolvendo-problema-semPOO.genruntimeconfig.cache
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\Resolvendo-problema-semPOO\Resolvendo-problema-semPOO\obj\Debug\net6.0\ref\Resolvendo-problema-semPOO.dll

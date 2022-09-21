@@ -1,0 +1,15 @@
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\MetodosReaproveitamentoEDelegacao\MetodosReaproveitamentoEDelegacao\bin\Debug\net6.0\MetodosReaproveitamentoEDelegacao.exe
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\MetodosReaproveitamentoEDelegacao\MetodosReaproveitamentoEDelegacao\bin\Debug\net6.0\MetodosReaproveitamentoEDelegacao.deps.json
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\MetodosReaproveitamentoEDelegacao\MetodosReaproveitamentoEDelegacao\bin\Debug\net6.0\MetodosReaproveitamentoEDelegacao.runtimeconfig.json
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\MetodosReaproveitamentoEDelegacao\MetodosReaproveitamentoEDelegacao\bin\Debug\net6.0\MetodosReaproveitamentoEDelegacao.dll
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\MetodosReaproveitamentoEDelegacao\MetodosReaproveitamentoEDelegacao\bin\Debug\net6.0\MetodosReaproveitamentoEDelegacao.pdb
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\MetodosReaproveitamentoEDelegacao\MetodosReaproveitamentoEDelegacao\obj\Debug\net6.0\MetodosReaproveitamentoEDelegacao.csproj.AssemblyReference.cache
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\MetodosReaproveitamentoEDelegacao\MetodosReaproveitamentoEDelegacao\obj\Debug\net6.0\MetodosReaproveitamentoEDelegacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\MetodosReaproveitamentoEDelegacao\MetodosReaproveitamentoEDelegacao\obj\Debug\net6.0\MetodosReaproveitamentoEDelegacao.AssemblyInfoInputs.cache
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\MetodosReaproveitamentoEDelegacao\MetodosReaproveitamentoEDelegacao\obj\Debug\net6.0\MetodosReaproveitamentoEDelegacao.AssemblyInfo.cs
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\MetodosReaproveitamentoEDelegacao\MetodosReaproveitamentoEDelegacao\obj\Debug\net6.0\MetodosReaproveitamentoEDelegacao.csproj.CoreCompileInputs.cache
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\MetodosReaproveitamentoEDelegacao\MetodosReaproveitamentoEDelegacao\obj\Debug\net6.0\MetodosReaproveitamentoEDelegacao.dll
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\MetodosReaproveitamentoEDelegacao\MetodosReaproveitamentoEDelegacao\obj\Debug\net6.0\refint\MetodosReaproveitamentoEDelegacao.dll
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\MetodosReaproveitamentoEDelegacao\MetodosReaproveitamentoEDelegacao\obj\Debug\net6.0\MetodosReaproveitamentoEDelegacao.pdb
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\MetodosReaproveitamentoEDelegacao\MetodosReaproveitamentoEDelegacao\obj\Debug\net6.0\MetodosReaproveitamentoEDelegacao.genruntimeconfig.cache
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\MetodosReaproveitamentoEDelegacao\MetodosReaproveitamentoEDelegacao\obj\Debug\net6.0\ref\MetodosReaproveitamentoEDelegacao.dll

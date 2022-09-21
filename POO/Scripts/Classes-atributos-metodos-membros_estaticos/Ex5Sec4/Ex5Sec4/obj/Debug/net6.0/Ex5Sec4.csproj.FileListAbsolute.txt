@@ -1,0 +1,15 @@
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\Ex5Sec4\Ex5Sec4\bin\Debug\net6.0\Ex5Sec4.exe
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\Ex5Sec4\Ex5Sec4\bin\Debug\net6.0\Ex5Sec4.deps.json
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\Ex5Sec4\Ex5Sec4\bin\Debug\net6.0\Ex5Sec4.runtimeconfig.json
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\Ex5Sec4\Ex5Sec4\bin\Debug\net6.0\Ex5Sec4.dll
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\Ex5Sec4\Ex5Sec4\bin\Debug\net6.0\Ex5Sec4.pdb
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\Ex5Sec4\Ex5Sec4\obj\Debug\net6.0\Ex5Sec4.csproj.AssemblyReference.cache
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\Ex5Sec4\Ex5Sec4\obj\Debug\net6.0\Ex5Sec4.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\Ex5Sec4\Ex5Sec4\obj\Debug\net6.0\Ex5Sec4.AssemblyInfoInputs.cache
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\Ex5Sec4\Ex5Sec4\obj\Debug\net6.0\Ex5Sec4.AssemblyInfo.cs
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\Ex5Sec4\Ex5Sec4\obj\Debug\net6.0\Ex5Sec4.csproj.CoreCompileInputs.cache
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\Ex5Sec4\Ex5Sec4\obj\Debug\net6.0\Ex5Sec4.dll
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\Ex5Sec4\Ex5Sec4\obj\Debug\net6.0\refint\Ex5Sec4.dll
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\Ex5Sec4\Ex5Sec4\obj\Debug\net6.0\Ex5Sec4.pdb
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\Ex5Sec4\Ex5Sec4\obj\Debug\net6.0\Ex5Sec4.genruntimeconfig.cache
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\Ex5Sec4\Ex5Sec4\obj\Debug\net6.0\ref\Ex5Sec4.dll

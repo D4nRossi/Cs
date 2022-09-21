@@ -1,0 +1,15 @@
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\SegundoProblema\SegundoProblema\bin\Debug\net6.0\SegundoProblema.exe
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\SegundoProblema\SegundoProblema\bin\Debug\net6.0\SegundoProblema.deps.json
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\SegundoProblema\SegundoProblema\bin\Debug\net6.0\SegundoProblema.runtimeconfig.json
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\SegundoProblema\SegundoProblema\bin\Debug\net6.0\SegundoProblema.dll
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\SegundoProblema\SegundoProblema\bin\Debug\net6.0\SegundoProblema.pdb
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\SegundoProblema\SegundoProblema\obj\Debug\net6.0\SegundoProblema.csproj.AssemblyReference.cache
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\SegundoProblema\SegundoProblema\obj\Debug\net6.0\SegundoProblema.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\SegundoProblema\SegundoProblema\obj\Debug\net6.0\SegundoProblema.AssemblyInfoInputs.cache
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\SegundoProblema\SegundoProblema\obj\Debug\net6.0\SegundoProblema.AssemblyInfo.cs
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\SegundoProblema\SegundoProblema\obj\Debug\net6.0\SegundoProblema.csproj.CoreCompileInputs.cache
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\SegundoProblema\SegundoProblema\obj\Debug\net6.0\SegundoProblema.dll
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\SegundoProblema\SegundoProblema\obj\Debug\net6.0\refint\SegundoProblema.dll
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\SegundoProblema\SegundoProblema\obj\Debug\net6.0\SegundoProblema.pdb
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\SegundoProblema\SegundoProblema\obj\Debug\net6.0\SegundoProblema.genruntimeconfig.cache
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\SegundoProblema\SegundoProblema\obj\Debug\net6.0\ref\SegundoProblema.dll
