@@ -15,5 +15,6 @@ namespace Ex5Sec4
             return n1 + n2 + n3;
         }
 
+
     }
 }

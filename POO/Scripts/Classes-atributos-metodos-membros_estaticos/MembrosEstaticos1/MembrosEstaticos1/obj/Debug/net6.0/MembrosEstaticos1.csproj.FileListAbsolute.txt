@@ -1,0 +1,15 @@
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\MembrosEstaticos1\MembrosEstaticos1\bin\Debug\net6.0\MembrosEstaticos1.exe
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\MembrosEstaticos1\MembrosEstaticos1\bin\Debug\net6.0\MembrosEstaticos1.deps.json
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\MembrosEstaticos1\MembrosEstaticos1\bin\Debug\net6.0\MembrosEstaticos1.runtimeconfig.json
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\MembrosEstaticos1\MembrosEstaticos1\bin\Debug\net6.0\MembrosEstaticos1.dll
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\MembrosEstaticos1\MembrosEstaticos1\bin\Debug\net6.0\MembrosEstaticos1.pdb
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\MembrosEstaticos1\MembrosEstaticos1\obj\Debug\net6.0\MembrosEstaticos1.csproj.AssemblyReference.cache
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\MembrosEstaticos1\MembrosEstaticos1\obj\Debug\net6.0\MembrosEstaticos1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\MembrosEstaticos1\MembrosEstaticos1\obj\Debug\net6.0\MembrosEstaticos1.AssemblyInfoInputs.cache
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\MembrosEstaticos1\MembrosEstaticos1\obj\Debug\net6.0\MembrosEstaticos1.AssemblyInfo.cs
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\MembrosEstaticos1\MembrosEstaticos1\obj\Debug\net6.0\MembrosEstaticos1.csproj.CoreCompileInputs.cache
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\MembrosEstaticos1\MembrosEstaticos1\obj\Debug\net6.0\MembrosEstaticos1.dll
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\MembrosEstaticos1\MembrosEstaticos1\obj\Debug\net6.0\refint\MembrosEstaticos1.dll
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\MembrosEstaticos1\MembrosEstaticos1\obj\Debug\net6.0\MembrosEstaticos1.pdb
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\MembrosEstaticos1\MembrosEstaticos1\obj\Debug\net6.0\MembrosEstaticos1.genruntimeconfig.cache
+D:\DEV\C#\POO\Scripts\Classes-atributos-metodos-membros_estaticos\MembrosEstaticos1\MembrosEstaticos1\obj\Debug\net6.0\ref\MembrosEstaticos1.dll
