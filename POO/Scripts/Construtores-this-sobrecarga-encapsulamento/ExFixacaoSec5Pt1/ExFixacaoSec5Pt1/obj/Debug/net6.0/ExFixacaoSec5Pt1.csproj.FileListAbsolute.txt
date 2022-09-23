@@ -1,0 +1,15 @@
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\ExFixacaoSec5Pt1\ExFixacaoSec5Pt1\bin\Debug\net6.0\ExFixacaoSec5Pt1.exe
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\ExFixacaoSec5Pt1\ExFixacaoSec5Pt1\bin\Debug\net6.0\ExFixacaoSec5Pt1.deps.json
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\ExFixacaoSec5Pt1\ExFixacaoSec5Pt1\bin\Debug\net6.0\ExFixacaoSec5Pt1.runtimeconfig.json
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\ExFixacaoSec5Pt1\ExFixacaoSec5Pt1\bin\Debug\net6.0\ExFixacaoSec5Pt1.dll
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\ExFixacaoSec5Pt1\ExFixacaoSec5Pt1\bin\Debug\net6.0\ExFixacaoSec5Pt1.pdb
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\ExFixacaoSec5Pt1\ExFixacaoSec5Pt1\obj\Debug\net6.0\ExFixacaoSec5Pt1.csproj.AssemblyReference.cache
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\ExFixacaoSec5Pt1\ExFixacaoSec5Pt1\obj\Debug\net6.0\ExFixacaoSec5Pt1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\ExFixacaoSec5Pt1\ExFixacaoSec5Pt1\obj\Debug\net6.0\ExFixacaoSec5Pt1.AssemblyInfoInputs.cache
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\ExFixacaoSec5Pt1\ExFixacaoSec5Pt1\obj\Debug\net6.0\ExFixacaoSec5Pt1.AssemblyInfo.cs
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\ExFixacaoSec5Pt1\ExFixacaoSec5Pt1\obj\Debug\net6.0\ExFixacaoSec5Pt1.csproj.CoreCompileInputs.cache
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\ExFixacaoSec5Pt1\ExFixacaoSec5Pt1\obj\Debug\net6.0\ExFixacaoSec5Pt1.dll
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\ExFixacaoSec5Pt1\ExFixacaoSec5Pt1\obj\Debug\net6.0\refint\ExFixacaoSec5Pt1.dll
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\ExFixacaoSec5Pt1\ExFixacaoSec5Pt1\obj\Debug\net6.0\ExFixacaoSec5Pt1.pdb
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\ExFixacaoSec5Pt1\ExFixacaoSec5Pt1\obj\Debug\net6.0\ExFixacaoSec5Pt1.genruntimeconfig.cache
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\ExFixacaoSec5Pt1\ExFixacaoSec5Pt1\obj\Debug\net6.0\ref\ExFixacaoSec5Pt1.dll

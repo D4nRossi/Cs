@@ -1,0 +1,12 @@
+Classes
+
+- Acesso por qualquer Classe
+    - public class Product
+
+- Acesso somente dentro do assembly
+    - internal class Product
+    - class Product
+
+- Acesso somente pela classe-mae
+    - private class Product
+    - Nota: classe aninhada, por padrão, é private
