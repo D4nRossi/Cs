@@ -1,0 +1,15 @@
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Properties\Properties\bin\Debug\net6.0\Properties.exe
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Properties\Properties\bin\Debug\net6.0\Properties.deps.json
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Properties\Properties\bin\Debug\net6.0\Properties.runtimeconfig.json
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Properties\Properties\bin\Debug\net6.0\Properties.dll
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Properties\Properties\bin\Debug\net6.0\Properties.pdb
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Properties\Properties\obj\Debug\net6.0\Properties.csproj.AssemblyReference.cache
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Properties\Properties\obj\Debug\net6.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Properties\Properties\obj\Debug\net6.0\Properties.AssemblyInfoInputs.cache
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Properties\Properties\obj\Debug\net6.0\Properties.AssemblyInfo.cs
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Properties\Properties\obj\Debug\net6.0\Properties.csproj.CoreCompileInputs.cache
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Properties\Properties\obj\Debug\net6.0\Properties.dll
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Properties\Properties\obj\Debug\net6.0\refint\Properties.dll
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Properties\Properties\obj\Debug\net6.0\Properties.pdb
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Properties\Properties\obj\Debug\net6.0\Properties.genruntimeconfig.cache
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Properties\Properties\obj\Debug\net6.0\ref\Properties.dll

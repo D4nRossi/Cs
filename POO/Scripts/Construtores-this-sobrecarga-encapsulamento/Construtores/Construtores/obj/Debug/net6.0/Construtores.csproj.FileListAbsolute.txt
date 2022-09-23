@@ -1,0 +1,15 @@
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Construtores\Construtores\bin\Debug\net6.0\Construtores.exe
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Construtores\Construtores\bin\Debug\net6.0\Construtores.deps.json
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Construtores\Construtores\bin\Debug\net6.0\Construtores.runtimeconfig.json
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Construtores\Construtores\bin\Debug\net6.0\Construtores.dll
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Construtores\Construtores\bin\Debug\net6.0\Construtores.pdb
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Construtores\Construtores\obj\Debug\net6.0\Construtores.csproj.AssemblyReference.cache
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Construtores\Construtores\obj\Debug\net6.0\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Construtores\Construtores\obj\Debug\net6.0\Construtores.AssemblyInfoInputs.cache
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Construtores\Construtores\obj\Debug\net6.0\Construtores.AssemblyInfo.cs
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Construtores\Construtores\obj\Debug\net6.0\Construtores.csproj.CoreCompileInputs.cache
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Construtores\Construtores\obj\Debug\net6.0\Construtores.dll
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Construtores\Construtores\obj\Debug\net6.0\refint\Construtores.dll
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Construtores\Construtores\obj\Debug\net6.0\Construtores.pdb
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Construtores\Construtores\obj\Debug\net6.0\Construtores.genruntimeconfig.cache
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Construtores\Construtores\obj\Debug\net6.0\ref\Construtores.dll

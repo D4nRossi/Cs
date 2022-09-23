@@ -1,0 +1,15 @@
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Encapsulamento\Encapsulamento\bin\Debug\net6.0\Encapsulamento.exe
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Encapsulamento\Encapsulamento\bin\Debug\net6.0\Encapsulamento.deps.json
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Encapsulamento\Encapsulamento\bin\Debug\net6.0\Encapsulamento.runtimeconfig.json
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Encapsulamento\Encapsulamento\bin\Debug\net6.0\Encapsulamento.dll
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Encapsulamento\Encapsulamento\bin\Debug\net6.0\Encapsulamento.pdb
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Encapsulamento\Encapsulamento\obj\Debug\net6.0\Encapsulamento.csproj.AssemblyReference.cache
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Encapsulamento\Encapsulamento\obj\Debug\net6.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Encapsulamento\Encapsulamento\obj\Debug\net6.0\Encapsulamento.AssemblyInfoInputs.cache
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Encapsulamento\Encapsulamento\obj\Debug\net6.0\Encapsulamento.AssemblyInfo.cs
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Encapsulamento\Encapsulamento\obj\Debug\net6.0\Encapsulamento.csproj.CoreCompileInputs.cache
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Encapsulamento\Encapsulamento\obj\Debug\net6.0\Encapsulamento.dll
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Encapsulamento\Encapsulamento\obj\Debug\net6.0\refint\Encapsulamento.dll
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Encapsulamento\Encapsulamento\obj\Debug\net6.0\Encapsulamento.pdb
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Encapsulamento\Encapsulamento\obj\Debug\net6.0\Encapsulamento.genruntimeconfig.cache
+D:\DEV\C#\POO\Scripts\Construtores-this-sobrecarga-encapsulamento\Encapsulamento\Encapsulamento\obj\Debug\net6.0\ref\Encapsulamento.dll
