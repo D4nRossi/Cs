@@ -1,0 +1,15 @@
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Vetores2\Vetores2\bin\Debug\net6.0\Vetores2.exe
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Vetores2\Vetores2\bin\Debug\net6.0\Vetores2.deps.json
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Vetores2\Vetores2\bin\Debug\net6.0\Vetores2.runtimeconfig.json
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Vetores2\Vetores2\bin\Debug\net6.0\Vetores2.dll
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Vetores2\Vetores2\bin\Debug\net6.0\Vetores2.pdb
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Vetores2\Vetores2\obj\Debug\net6.0\Vetores2.csproj.AssemblyReference.cache
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Vetores2\Vetores2\obj\Debug\net6.0\Vetores2.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Vetores2\Vetores2\obj\Debug\net6.0\Vetores2.AssemblyInfoInputs.cache
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Vetores2\Vetores2\obj\Debug\net6.0\Vetores2.AssemblyInfo.cs
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Vetores2\Vetores2\obj\Debug\net6.0\Vetores2.csproj.CoreCompileInputs.cache
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Vetores2\Vetores2\obj\Debug\net6.0\Vetores2.dll
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Vetores2\Vetores2\obj\Debug\net6.0\refint\Vetores2.dll
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Vetores2\Vetores2\obj\Debug\net6.0\Vetores2.pdb
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Vetores2\Vetores2\obj\Debug\net6.0\Vetores2.genruntimeconfig.cache
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Vetores2\Vetores2\obj\Debug\net6.0\ref\Vetores2.dll

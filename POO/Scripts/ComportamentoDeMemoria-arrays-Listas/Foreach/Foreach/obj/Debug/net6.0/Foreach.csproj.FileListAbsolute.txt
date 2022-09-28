@@ -1,0 +1,15 @@
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Foreach\Foreach\bin\Debug\net6.0\Foreach.exe
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Foreach\Foreach\bin\Debug\net6.0\Foreach.deps.json
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Foreach\Foreach\bin\Debug\net6.0\Foreach.runtimeconfig.json
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Foreach\Foreach\bin\Debug\net6.0\Foreach.dll
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Foreach\Foreach\bin\Debug\net6.0\Foreach.pdb
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Foreach\Foreach\obj\Debug\net6.0\Foreach.csproj.AssemblyReference.cache
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Foreach\Foreach\obj\Debug\net6.0\Foreach.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Foreach\Foreach\obj\Debug\net6.0\Foreach.AssemblyInfoInputs.cache
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Foreach\Foreach\obj\Debug\net6.0\Foreach.AssemblyInfo.cs
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Foreach\Foreach\obj\Debug\net6.0\Foreach.csproj.CoreCompileInputs.cache
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Foreach\Foreach\obj\Debug\net6.0\Foreach.dll
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Foreach\Foreach\obj\Debug\net6.0\refint\Foreach.dll
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Foreach\Foreach\obj\Debug\net6.0\Foreach.pdb
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Foreach\Foreach\obj\Debug\net6.0\Foreach.genruntimeconfig.cache
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Foreach\Foreach\obj\Debug\net6.0\ref\Foreach.dll

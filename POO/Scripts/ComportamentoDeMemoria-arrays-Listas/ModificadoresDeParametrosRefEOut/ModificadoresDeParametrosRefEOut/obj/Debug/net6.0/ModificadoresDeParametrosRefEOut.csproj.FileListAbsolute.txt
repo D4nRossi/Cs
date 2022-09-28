@@ -1,0 +1,15 @@
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\ModificadoresDeParametrosRefEOut\ModificadoresDeParametrosRefEOut\bin\Debug\net6.0\ModificadoresDeParametrosRefEOut.exe
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\ModificadoresDeParametrosRefEOut\ModificadoresDeParametrosRefEOut\bin\Debug\net6.0\ModificadoresDeParametrosRefEOut.deps.json
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\ModificadoresDeParametrosRefEOut\ModificadoresDeParametrosRefEOut\bin\Debug\net6.0\ModificadoresDeParametrosRefEOut.runtimeconfig.json
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\ModificadoresDeParametrosRefEOut\ModificadoresDeParametrosRefEOut\bin\Debug\net6.0\ModificadoresDeParametrosRefEOut.dll
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\ModificadoresDeParametrosRefEOut\ModificadoresDeParametrosRefEOut\bin\Debug\net6.0\ModificadoresDeParametrosRefEOut.pdb
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\ModificadoresDeParametrosRefEOut\ModificadoresDeParametrosRefEOut\obj\Debug\net6.0\ModificadoresDeParametrosRefEOut.csproj.AssemblyReference.cache
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\ModificadoresDeParametrosRefEOut\ModificadoresDeParametrosRefEOut\obj\Debug\net6.0\ModificadoresDeParametrosRefEOut.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\ModificadoresDeParametrosRefEOut\ModificadoresDeParametrosRefEOut\obj\Debug\net6.0\ModificadoresDeParametrosRefEOut.AssemblyInfoInputs.cache
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\ModificadoresDeParametrosRefEOut\ModificadoresDeParametrosRefEOut\obj\Debug\net6.0\ModificadoresDeParametrosRefEOut.AssemblyInfo.cs
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\ModificadoresDeParametrosRefEOut\ModificadoresDeParametrosRefEOut\obj\Debug\net6.0\ModificadoresDeParametrosRefEOut.csproj.CoreCompileInputs.cache
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\ModificadoresDeParametrosRefEOut\ModificadoresDeParametrosRefEOut\obj\Debug\net6.0\ModificadoresDeParametrosRefEOut.dll
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\ModificadoresDeParametrosRefEOut\ModificadoresDeParametrosRefEOut\obj\Debug\net6.0\refint\ModificadoresDeParametrosRefEOut.dll
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\ModificadoresDeParametrosRefEOut\ModificadoresDeParametrosRefEOut\obj\Debug\net6.0\ModificadoresDeParametrosRefEOut.pdb
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\ModificadoresDeParametrosRefEOut\ModificadoresDeParametrosRefEOut\obj\Debug\net6.0\ModificadoresDeParametrosRefEOut.genruntimeconfig.cache
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\ModificadoresDeParametrosRefEOut\ModificadoresDeParametrosRefEOut\obj\Debug\net6.0\ref\ModificadoresDeParametrosRefEOut.dll

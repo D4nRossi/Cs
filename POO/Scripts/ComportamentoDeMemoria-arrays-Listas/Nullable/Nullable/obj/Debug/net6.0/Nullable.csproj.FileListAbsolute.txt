@@ -1,0 +1,15 @@
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Nullable\Nullable\bin\Debug\net6.0\Nullable.exe
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Nullable\Nullable\bin\Debug\net6.0\Nullable.deps.json
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Nullable\Nullable\bin\Debug\net6.0\Nullable.runtimeconfig.json
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Nullable\Nullable\bin\Debug\net6.0\Nullable.dll
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Nullable\Nullable\bin\Debug\net6.0\Nullable.pdb
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Nullable\Nullable\obj\Debug\net6.0\Nullable.csproj.AssemblyReference.cache
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Nullable\Nullable\obj\Debug\net6.0\Nullable.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Nullable\Nullable\obj\Debug\net6.0\Nullable.AssemblyInfoInputs.cache
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Nullable\Nullable\obj\Debug\net6.0\Nullable.AssemblyInfo.cs
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Nullable\Nullable\obj\Debug\net6.0\Nullable.csproj.CoreCompileInputs.cache
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Nullable\Nullable\obj\Debug\net6.0\Nullable.dll
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Nullable\Nullable\obj\Debug\net6.0\refint\Nullable.dll
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Nullable\Nullable\obj\Debug\net6.0\Nullable.pdb
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Nullable\Nullable\obj\Debug\net6.0\Nullable.genruntimeconfig.cache
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Nullable\Nullable\obj\Debug\net6.0\ref\Nullable.dll

@@ -1,0 +1,15 @@
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\TiposReferenciaXTiposValor\TiposReferenciaXTiposValor\bin\Debug\net6.0\TiposReferenciaXTiposValor.exe
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\TiposReferenciaXTiposValor\TiposReferenciaXTiposValor\bin\Debug\net6.0\TiposReferenciaXTiposValor.deps.json
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\TiposReferenciaXTiposValor\TiposReferenciaXTiposValor\bin\Debug\net6.0\TiposReferenciaXTiposValor.runtimeconfig.json
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\TiposReferenciaXTiposValor\TiposReferenciaXTiposValor\bin\Debug\net6.0\TiposReferenciaXTiposValor.dll
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\TiposReferenciaXTiposValor\TiposReferenciaXTiposValor\bin\Debug\net6.0\TiposReferenciaXTiposValor.pdb
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\TiposReferenciaXTiposValor\TiposReferenciaXTiposValor\obj\Debug\net6.0\TiposReferenciaXTiposValor.csproj.AssemblyReference.cache
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\TiposReferenciaXTiposValor\TiposReferenciaXTiposValor\obj\Debug\net6.0\TiposReferenciaXTiposValor.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\TiposReferenciaXTiposValor\TiposReferenciaXTiposValor\obj\Debug\net6.0\TiposReferenciaXTiposValor.AssemblyInfoInputs.cache
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\TiposReferenciaXTiposValor\TiposReferenciaXTiposValor\obj\Debug\net6.0\TiposReferenciaXTiposValor.AssemblyInfo.cs
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\TiposReferenciaXTiposValor\TiposReferenciaXTiposValor\obj\Debug\net6.0\TiposReferenciaXTiposValor.csproj.CoreCompileInputs.cache
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\TiposReferenciaXTiposValor\TiposReferenciaXTiposValor\obj\Debug\net6.0\TiposReferenciaXTiposValor.dll
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\TiposReferenciaXTiposValor\TiposReferenciaXTiposValor\obj\Debug\net6.0\refint\TiposReferenciaXTiposValor.dll
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\TiposReferenciaXTiposValor\TiposReferenciaXTiposValor\obj\Debug\net6.0\TiposReferenciaXTiposValor.pdb
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\TiposReferenciaXTiposValor\TiposReferenciaXTiposValor\obj\Debug\net6.0\TiposReferenciaXTiposValor.genruntimeconfig.cache
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\TiposReferenciaXTiposValor\TiposReferenciaXTiposValor\obj\Debug\net6.0\ref\TiposReferenciaXTiposValor.dll
