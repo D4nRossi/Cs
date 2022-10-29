@@ -1,0 +1,15 @@
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Matrizes\Matrizes\bin\Debug\net6.0\Matrizes.exe
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Matrizes\Matrizes\bin\Debug\net6.0\Matrizes.deps.json
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Matrizes\Matrizes\bin\Debug\net6.0\Matrizes.runtimeconfig.json
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Matrizes\Matrizes\bin\Debug\net6.0\Matrizes.dll
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Matrizes\Matrizes\bin\Debug\net6.0\Matrizes.pdb
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.csproj.AssemblyReference.cache
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.AssemblyInfoInputs.cache
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.AssemblyInfo.cs
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.csproj.CoreCompileInputs.cache
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.dll
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Matrizes\Matrizes\obj\Debug\net6.0\refint\Matrizes.dll
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.pdb
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.genruntimeconfig.cache
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\Matrizes\Matrizes\obj\Debug\net6.0\ref\Matrizes.dll

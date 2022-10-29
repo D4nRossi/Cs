@@ -1,0 +1,15 @@
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\bin\Debug\net6.0\ExercicioResolvidoMatriz.exe
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\bin\Debug\net6.0\ExercicioResolvidoMatriz.deps.json
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\bin\Debug\net6.0\ExercicioResolvidoMatriz.runtimeconfig.json
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\bin\Debug\net6.0\ExercicioResolvidoMatriz.dll
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\bin\Debug\net6.0\ExercicioResolvidoMatriz.pdb
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\obj\Debug\net6.0\ExercicioResolvidoMatriz.csproj.AssemblyReference.cache
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\obj\Debug\net6.0\ExercicioResolvidoMatriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\obj\Debug\net6.0\ExercicioResolvidoMatriz.AssemblyInfoInputs.cache
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\obj\Debug\net6.0\ExercicioResolvidoMatriz.AssemblyInfo.cs
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\obj\Debug\net6.0\ExercicioResolvidoMatriz.csproj.CoreCompileInputs.cache
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\obj\Debug\net6.0\ExercicioResolvidoMatriz.dll
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\obj\Debug\net6.0\refint\ExercicioResolvidoMatriz.dll
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\obj\Debug\net6.0\ExercicioResolvidoMatriz.pdb
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\obj\Debug\net6.0\ExercicioResolvidoMatriz.genruntimeconfig.cache
+D:\DEV\C#\POO\Scripts\ComportamentoDeMemoria-arrays-Listas\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\obj\Debug\net6.0\ref\ExercicioResolvidoMatriz.dll

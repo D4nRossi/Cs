@@ -1,0 +1,15 @@
+D:\DEV\C#\Alura\Back-End Web-Developer - C# and .NET\Parte2\Primeira-classe\ByteBank\02-ByteBank\bin\Debug\net6.0\02-ByteBank.exe
+D:\DEV\C#\Alura\Back-End Web-Developer - C# and .NET\Parte2\Primeira-classe\ByteBank\02-ByteBank\bin\Debug\net6.0\02-ByteBank.deps.json
+D:\DEV\C#\Alura\Back-End Web-Developer - C# and .NET\Parte2\Primeira-classe\ByteBank\02-ByteBank\bin\Debug\net6.0\02-ByteBank.runtimeconfig.json
+D:\DEV\C#\Alura\Back-End Web-Developer - C# and .NET\Parte2\Primeira-classe\ByteBank\02-ByteBank\bin\Debug\net6.0\02-ByteBank.dll
+D:\DEV\C#\Alura\Back-End Web-Developer - C# and .NET\Parte2\Primeira-classe\ByteBank\02-ByteBank\bin\Debug\net6.0\02-ByteBank.pdb
+D:\DEV\C#\Alura\Back-End Web-Developer - C# and .NET\Parte2\Primeira-classe\ByteBank\02-ByteBank\obj\Debug\net6.0\02-ByteBank.csproj.AssemblyReference.cache
+D:\DEV\C#\Alura\Back-End Web-Developer - C# and .NET\Parte2\Primeira-classe\ByteBank\02-ByteBank\obj\Debug\net6.0\02-ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\C#\Alura\Back-End Web-Developer - C# and .NET\Parte2\Primeira-classe\ByteBank\02-ByteBank\obj\Debug\net6.0\02-ByteBank.AssemblyInfoInputs.cache
+D:\DEV\C#\Alura\Back-End Web-Developer - C# and .NET\Parte2\Primeira-classe\ByteBank\02-ByteBank\obj\Debug\net6.0\02-ByteBank.AssemblyInfo.cs
+D:\DEV\C#\Alura\Back-End Web-Developer - C# and .NET\Parte2\Primeira-classe\ByteBank\02-ByteBank\obj\Debug\net6.0\02-ByteBank.csproj.CoreCompileInputs.cache
+D:\DEV\C#\Alura\Back-End Web-Developer - C# and .NET\Parte2\Primeira-classe\ByteBank\02-ByteBank\obj\Debug\net6.0\02-ByteBank.dll
+D:\DEV\C#\Alura\Back-End Web-Developer - C# and .NET\Parte2\Primeira-classe\ByteBank\02-ByteBank\obj\Debug\net6.0\refint\02-ByteBank.dll
+D:\DEV\C#\Alura\Back-End Web-Developer - C# and .NET\Parte2\Primeira-classe\ByteBank\02-ByteBank\obj\Debug\net6.0\02-ByteBank.pdb
+D:\DEV\C#\Alura\Back-End Web-Developer - C# and .NET\Parte2\Primeira-classe\ByteBank\02-ByteBank\obj\Debug\net6.0\02-ByteBank.genruntimeconfig.cache
+D:\DEV\C#\Alura\Back-End Web-Developer - C# and .NET\Parte2\Primeira-classe\ByteBank\02-ByteBank\obj\Debug\net6.0\ref\02-ByteBank.dll
