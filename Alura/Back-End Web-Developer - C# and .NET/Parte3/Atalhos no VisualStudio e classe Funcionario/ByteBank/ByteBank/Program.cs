@@ -4,35 +4,35 @@ using System;
 namespace ByteBank {
     class Program {
         static void Main(string[] args) {
+            CalcularBonificacao();
+             
+        }
 
-            GerenciadorBonificacao gerenciador = new GerenciadorBonificacao();
+        public static void CalcularBonificacao() {
+            GerenciadorBonificacao gerenciadorBonificacao = new GerenciadorBonificacao();
 
-            Funcionario carlos = new Funcionario();
-            carlos.Nome = "Carlos";
-            carlos.CPF = "443.456.308.43";
-            carlos.Salario = 2000;
-            
-            gerenciador.Registrar(carlos);
+            Designer pedro = new Designer("833.222.048-39");
+            pedro.Nome = "Pedro";
 
-
-            Diretor roberta = new Diretor();
+            Diretor roberta = new Diretor("159.753.398-04");
             roberta.Nome = "Roberta";
-            roberta.CPF = "554.567.419.54";
-            roberta.Salario = 5000;
 
-            Funcionario robertaTeste = roberta;
+            Auxiliar igor = new Auxiliar("981.198.778-53");
+            igor.Nome = "Igor";
 
-            Console.WriteLine("Bonificacao de uma referencia de Diretor: " + roberta.GetBonificacao());
-            Console.WriteLine("Bonificacao de uma referencia de Funcionario: " + roberta.GetBonificacao());
-            gerenciador.Registrar(robertaTeste);
+            GerenteCC camila = new GerenteCC("326.985.628-89");
+            camila.Nome = "Camila";
 
-            Console.WriteLine(carlos.Nome);
-            Console.WriteLine(carlos.GetBonificacao());
+            Desenvolvedor daniel = new Desenvolvedor("443.456.308.43");
+            daniel.Nome = "Daniel";
 
-            Console.WriteLine(roberta.Nome);
-            Console.WriteLine(roberta.GetBonificacao());
+            gerenciadorBonificacao.Registrar(pedro);
+            gerenciadorBonificacao.Registrar(roberta);
+            gerenciadorBonificacao.Registrar(igor);
+            gerenciadorBonificacao.Registrar(camila);
+            gerenciadorBonificacao.Registrar(daniel);
 
-            Console.WriteLine("Total de bonificacoes: " + gerenciador.GetBonificacao());
+            Console.WriteLine("Total de bonificacoes do mes: " + gerenciadorBonificacao.GetBonificacao());
         }
     }
 }

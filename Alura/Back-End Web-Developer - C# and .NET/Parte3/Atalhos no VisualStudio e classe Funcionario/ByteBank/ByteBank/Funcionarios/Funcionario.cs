@@ -5,25 +5,28 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ByteBank.Funcionarios {
-    public class Funcionario {
+    public abstract class Funcionario {
+    //O funcionario é uma abstracao dos conceitos dessa classe, fazendo com que ele não possa ser diretamente instanciado
 
-        //0 - Funcionario
-        //1 - Diretor
-        //2 - Designer
-        //3 - Gerente de CC
-        //4 - Coordenador
-        private int _tipo;
+        public static int TotalDeFuncionarios { get; private set; } 
 
         public string Nome {get;set;}
-        public string CPF { get; set; }
-        public double Salario { get; set; }
+        public string CPF { get; private set; }
+        public double Salario { get; protected set; }// Acesso entre classes de mesma hierarquia
+
+        //Construtor para incrementar o TotalDeFuncionarios
+        public Funcionario(double salario, string cpf) {
+            Console.WriteLine("Criando Funcionario");
+            CPF = cpf;
+            Salario = salario;
+            TotalDeFuncionarios++;
+        }
+
+        //Aumento do salario
+        public abstract void AumentarSalario();
 
         //Bonificacao
-        public virtual double GetBonificacao() {
-            if(_tipo == 1) {
-                return Salario;
-            }return Salario * 0.10;
-        }
+        public abstract double GetBonificacao();
 
     }
 }
