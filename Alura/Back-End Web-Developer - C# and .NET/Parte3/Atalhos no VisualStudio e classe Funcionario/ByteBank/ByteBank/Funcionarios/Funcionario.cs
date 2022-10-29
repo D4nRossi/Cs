@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace ByteBank.Funcionarios {
     public abstract class Funcionario {
-    //O funcionario é uma abstracao dos conceitos dessa classe, fazendo com que ele não possa ser diretamente instanciado
-
+        //O funcionario é uma abstracao dos conceitos dessa classe, fazendo com que ele não possa ser diretamente instanciado
         public static int TotalDeFuncionarios { get; private set; } 
 
         public string Nome {get;set;}
